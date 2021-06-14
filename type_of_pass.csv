@@ -1,0 +1,9 @@
+,type,frequency
+0,small_with_numbers,76626893
+1,small_without_numbers,21448461
+2,big_with_numbers,2821143
+3,big_without_numbers,992278
+4,small_big_with_numbers,77732205
+5,small_big_without_numbers,24016251
+6,small_big_numbers_with_symbols,106865849
+7,small_big_numbers_without_symbols,77732205
